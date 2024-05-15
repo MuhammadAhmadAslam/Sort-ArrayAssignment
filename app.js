@@ -13,6 +13,12 @@ e5 = e5.sort()
 e6 = e6.sort()
 let finalResult1 = [...e1 , ...e2 , ...e3 , ...e4 , ...e5 , ...e6]
 console.log(finalResult1);
+
+
+
+
+
+// This is another Method 
 document.getElementById('s1').innerText = NumberArray
 let sorting = NumberArray.sort()
 let extract1 = []
